@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Envy  
 - 👀 I’m finding myself
-- 🌱 I’m currently learning how to become back-end dev 
+- 🌱 I’m currently learning how to become back-end dev and mobile dev
 
 <!---
 yyvnE/yyvnE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
